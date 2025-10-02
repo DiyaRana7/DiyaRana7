@@ -24,9 +24,9 @@
 ---
 
 ### 📊 GitHub Stats:
-![Diya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Diya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiyaRana7&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaRana7&layout=compact&theme=tokyonight)
 
 ---
 
